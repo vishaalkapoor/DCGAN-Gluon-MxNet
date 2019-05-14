@@ -1,2 +1,5 @@
 # DCGAN-Gluon-MxNet
-## Gloun version of DCGAN
+
+A DC GAN Implementation in Gluon.
+
+## Gluon version of DCGAN
